@@ -1,13 +1,13 @@
 <h1 align="center"><img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! 
-<img align='right' src="https://camo.githubusercontent.com/5ff9182d12e799168a3bb67b88df7388ae08ede3/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f3837352f312a7164415731546a434e353768316c6275757a766368672e676966" width="230">
-<h2> I'm Shivam Jha! <img src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" width="50"></h2>
+<img align='right' src="https://i.pinimg.com/originals/b2/32/55/b2325557a903fdf56b50da4656da9221.gif" width="230">
+<h2> I'm Shivam Jha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 - 👩‍🎓I am a Computer Engineering at SRM Institute of Engineering and Technology.
 - 🤔 Would love to seek help and advice related to Blockchain and Algorithms
 - 🔭 I’m currently working on Backend Web Development and DS-Algo :grin:
 - 💬 Ask me about anything, I am happy to help :smile:
  <h2> This is my portfolio website</h2>
- <hr> <\hr>
+https://shivamjha2110.github.io/MY-PORTFOLIO/#
 
 
 
