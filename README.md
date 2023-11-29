@@ -3,7 +3,7 @@
 <h2> I'm Shivam Jha! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
  
 - 👩‍🎓I am a Computer Engineering at SRM Institute of Engineering and Technology.
-- 🤔 Would love to seek help and advice related to Blockchain and Algorithms
+- 🤔 Would love to seek help and advice related to Databricks and Algorithms
 - 🔭 I’m currently working on Backend Web Development and DS-Algo :grin:
 - 💬 Ask me about anything, I am happy to help :smile:
  <h2> This is my portfolio website</h2>
