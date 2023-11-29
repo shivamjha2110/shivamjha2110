@@ -7,7 +7,7 @@
 - 🔭 I’m currently working on Backend Web Development and DS-Algo :grin:
 - 💬 Ask me about anything, I am happy to help :smile:
  <h2> This is my portfolio website</h2>
-https://shivamjha2110.github.io/MY-PORTFOLIO/#
+https://shivamjha2110.github.io/Resume/
 
 
 
