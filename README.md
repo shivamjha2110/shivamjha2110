@@ -6,8 +6,6 @@
 - 🤔 Would love to seek help and advice related to Dev and Algorithms
 - 🔭 I’m currently working on Full stack Web Development and DS-Algo :grin:
 - 💬 Ask me about anything, I am happy to help :smile:
- <h2> This is my portfolio website</h2>
-https://shivamjha2110.github.io/Resume/
 
 
 
@@ -25,7 +23,7 @@ https://shivamjha2110.github.io/Resume/
 <a href="https://reactjs.org/" title="React.js"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/react.svg"  alt="ReactJS" width="40px" height="40px"></a>
 <a href="https://git-scm.com/" title="Git"><img src="https://github.com/get-icon/geticon/raw/master/icons/git-icon.svg" alt="Git" width="40px" height="40px"></a>
 
- <h2>My GitHub Stats<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> </h2>
+ <h2>My GitHub Stats<img src="#" width="50"> </h2>
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=shivamjha2110&show_icons=true&theme=radical" alt="shivamjha2110" /></p>
 
