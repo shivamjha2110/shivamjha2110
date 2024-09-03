@@ -4,7 +4,7 @@
  
 - 👩‍🎓I am a Computer Engineering at SRM Institute of Science and Technology.
 - 🤔 Would love to seek help and advice related to Dev and Algorithms
-- 🔭 I’m currently working on Full stack Web Development and DS-Algo :grin:
+- 🔭 I’m currently working on Data field and DS-Algo :grin:
 - 💬 Ask me about anything, I am happy to help :smile:
 
 
