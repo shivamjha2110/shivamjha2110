@@ -1,4 +1,6 @@
-<p align="center">   <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Cartoon Coding GIF" width="400" style="border-radius: 18px; box-shadow: 0 4px 16px rgba(0,0,0,0.22);"> </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Cartoon Coding GIF" width="250" style="border-radius: 18px; box-shadow: 0 4px 16px rgba(0,0,0,0.22);">
+</p>
 
 <h2 align="center">Hi, I'm Shivam Jha 👋</h2>
 <h3 align="center">Software Engineer | Associate Engineer - Data Science</h3>
