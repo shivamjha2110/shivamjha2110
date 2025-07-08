@@ -1,9 +1,8 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" alt="Cartoon Coding GIF" width="230" style="border-radius: 18px; box-shadow: 0 4px 16px rgba(0,0,0,0.22);">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3gwYXY4azd1djl4OWg1MGtraGY5cXpobW1zYWx3dmV3NmZleDkxNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HscDLzkO8EOTmgkhQP/giphy.gif" alt="Java Developer Coding GIF" width="400" style="border-radius: 18px; box-shadow: 0 4px 16px rgba(0,0,0,0.22);">
 </p>
-
 <h2 align="center"><img src="https://img.icons8.com/color/48/000000/rocket--v2.png" width="28"/> Hi, I'm <span style="color:#36BCF7">Shivam Jha</span> 👋</h2>
-<h3 align="center"> Software Engineer | Associate Engineer - Data Science</h3>
+<h3 align="center">Associate Engineer - Data Science</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Problem+Solver+%7C+Code+Enthusiast;Building+Robust+Solutions+with+Code;Driven+by+Curiosity+and+Logic!" alt="Typing SVG" />
@@ -14,7 +13,7 @@
 ## 🚀 About Me
 
 > 👉 **Passionate Software Engineer** with a knack for creative problem-solving and building scalable solutions.  
-> 👉 **Specialized in Data Science, DSA, and Web Development.**  
+> 👉 **Specialized in Data Science, DSA, and Java Dev.**  
 > 👉 Always learning, always coding, always curious!
 
 ---
