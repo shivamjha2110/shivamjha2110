@@ -23,7 +23,7 @@
 > - *Love to automate workflows, learn new tools, and craft clean, maintainable code!*
 ---
 
-## 🛠️ Technology Arsenal
+## ⚡Technology Arsenal
 
 <div align="center">
 
