@@ -7,20 +7,8 @@
 </p>
 
 
-
-
-
-
-
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=shivamjha2110&color=blueviolet&style=for-the-badge&label=Profile+Views"/>
-</div>
-
----
-
-<div align="center">
-  <h3>💫 "Where Data Meets Code, Innovation Begins!" 🚀</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Let's+build+data-driven+solutions+together!+%F0%9F%92%AB;Java+%7C+Data+Science+%7C+Innovation!+%F0%9F%94%A5;Always+ready+for+new+challenges!+%E2%9C%A8" alt="Closing Message"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Thanks+for+visiting+my+profile!+%F0%9F%9A%80;Software+Developer+%7C+Innovation!+%F0%9F%94%A5;Always+ready+for+new+challenges!+%E2%9C%A8" alt="Closing Message"/>
 </div>
 
 <div align="center">
